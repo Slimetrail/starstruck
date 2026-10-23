@@ -1,0 +1,17 @@
+Starstruck
+Copyright (c) 2026 slimetrail. All Rights Reserved.
+
+This software and its source code, design, graphics and documentation are
+proprietary. No license is granted to copy, modify, distribute, sublicense,
+or create derivative works, in whole or in part, without the prior written
+permission of the copyright holder. Viewing the deployed web app does not
+grant any rights to its code.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Third-party components
+----------------------
+Third-party components included in this distribution remain under their own
+licenses, which are not affected by this notice:
+- mp4-muxer (vendor/mp4-muxer.mjs) - MIT License, Copyright (c) 2023 Vanilagy.
+  Full text: vendor/mp4-muxer.LICENSE

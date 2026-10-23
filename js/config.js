@@ -1,0 +1,1 @@
+const o="860165115811-7ld3jlhjk1jr9ac2k09vjb1hahnsivkg.apps.googleusercontent.com",t="https://www.googleapis.com/auth/drive.file",e="Starstruck Samples",s=["Beat Board Samples"];export{e as DRIVE_ROOT_NAME,t as DRIVE_SCOPE,o as GOOGLE_CLIENT_ID,s as LEGACY_DRIVE_ROOT_NAMES};
