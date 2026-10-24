@@ -1,0 +1,174 @@
+[
+  {
+    "file": "01_narrator_intro.mp4",
+    "section": "narrator_intro",
+    "characters": [
+      "Astra Blue"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "narrator",
+      "intro",
+      "studio",
+      "clones",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "02_2026_loud_screens.mp4",
+    "section": "verse1_2026",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "2026",
+      "screens",
+      "job fear",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "03_pre_chorus_build.mp4",
+    "section": "pre_chorus",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "build",
+      "curious",
+      "tension",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "04_chopped_drop.mp4",
+    "section": "drop_chopped",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "drop",
+      "rave",
+      "lasers",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "05_2040s_abundance.mp4",
+    "section": "verse2_2040s",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "2040s",
+      "solar city",
+      "abundance",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "06_mars.mp4",
+    "section": "verse2_mars",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "mars",
+      "red dust",
+      "dome city",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "07_honest_bridge.mp4",
+    "section": "bridge",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "honest",
+      "kill switch",
+      "quiet",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "08_final_drop.mp4",
+    "section": "final_drop",
+    "characters": [
+      "Claudia",
+      "Astra Blue"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "final drop",
+      "rave",
+      "clones",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "09_outro.mp4",
+    "section": "outro",
+    "characters": [
+      "Claudia"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "dawn",
+      "math and meaning",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  },
+  {
+    "file": "10_narrator_signoff.mp4",
+    "section": "narrator_signoff",
+    "characters": [
+      "Astra Blue"
+    ],
+    "duration": 4.933,
+    "loopable": true,
+    "tags": [
+      "narrator",
+      "2050",
+      "sign-off",
+      "clones",
+      "film grain",
+      "glitch",
+      "9:16"
+    ]
+  }
+]
